@@ -1,0 +1,14 @@
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.AssemblyInfoInputs.cache
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.AssemblyInfo.cs
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.csproj.CoreCompileInputs.cache
+C:\Users\jidex\Code\CompoundIntCal\bin\Debug\net8.0\CompoundIntCal.exe
+C:\Users\jidex\Code\CompoundIntCal\bin\Debug\net8.0\CompoundIntCal.deps.json
+C:\Users\jidex\Code\CompoundIntCal\bin\Debug\net8.0\CompoundIntCal.runtimeconfig.json
+C:\Users\jidex\Code\CompoundIntCal\bin\Debug\net8.0\CompoundIntCal.dll
+C:\Users\jidex\Code\CompoundIntCal\bin\Debug\net8.0\CompoundIntCal.pdb
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.dll
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\refint\CompoundIntCal.dll
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.pdb
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\CompoundIntCal.genruntimeconfig.cache
+C:\Users\jidex\Code\CompoundIntCal\obj\Debug\net8.0\ref\CompoundIntCal.dll
